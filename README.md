@@ -13,6 +13,10 @@ This is the reimagined version of [WFB's Easy Commands](https://modrinth.com/mod
 
 While newer Minecraft versions allow players in Creative mode to obtain administrative blocks like barriers directly from their inventory, players still need to manually type the lengthy commands to get effects, game rules, etc. This mod was created precisely to solve that problem!
 
+### **What is the purpose of this repository?**
+
+Well, as you can see, this mod is not open source, and the purpose of this repository is mainly to use the Wiki pages here, so any Issues and Pull Requests here will not be accepted. Please go to CurseForge to leave any comments and questions you have about using this mod!
+
 ### **Looking for more mod loaders support?**
 
 Currently only supports NeoForge. Support for other mod loaders hasn't been decided yet. For Forge and Fabric 1.19.2 and 1.18.2, please refer to the original [WFB's Easy Commands](https://modrinth.com/mod/wfbs-ez-commands).
